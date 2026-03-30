@@ -5,7 +5,7 @@
  * api.js — Camada de Integração Front-end / Back-end
  * InclusãoTech | PIM V | UNIP 2026
  * ============================================================
- * Responsável back-end: [seu nome]
+ * Responsável back-end: Estevan Anselmo da Silva
  * Repositório: https://dinizzs2.github.io/PIM---Site-Inclusivo/
  *
  * ARQUITETURA:
